@@ -29,5 +29,5 @@ Related Screenshots
 
 
 If you have **any more Solaris Launchers** from **discord.gg/solarisfn (2024)**,  
-please DM **@xlnk** and send them over.
+please DM **@xlnk** and send them over and you will be credited..
 
