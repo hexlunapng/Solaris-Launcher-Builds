@@ -27,3 +27,8 @@ https://cdn.discordapp.com/attachments/1377448820853706878/1381086590880841849/i
 solaris 0.10
 
 https://cdn.discordapp.com/attachments/1377448820853706878/1381087305456160798/image.png?ex=68463d48&is=6844ebc8&hm=fd20f1bf390e657fd48393d67a7b2e6565de4ffbc4ae6a6b7a8fe07103b414e8&
+
+
+solaris 1.28 (the updated one)
+
+https://cdn.discordapp.com/attachments/1377448820853706878/1381087655793528882/image.png?ex=68463d9c&is=6844ec1c&hm=44802301f62cd2e4a95bf9c9e1fe516a95434f3b852d95a39b1dacc76eb82baa&
