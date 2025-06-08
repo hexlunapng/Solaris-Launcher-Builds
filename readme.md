@@ -16,3 +16,7 @@ Solaris Launcher Versions (Direct Download Links)
 Related Screenshot
 solaris 1.0.9 
 https://cdn.discordapp.com/attachments/1377448820853706878/1381085930760437925/image.png?ex=68463c01&is=6844ea81&hm=68c8d370e910201ae1443c243b2671a98fdee85bd23651a97e376905aa7506b8
+
+solaris 1.18 
+
+https://cdn.discordapp.com/attachments/1377448820853706878/1381086590880841849/image.png?ex=68463c9e&is=6844eb1e&hm=2fc0885df125ad5d6b6b01eb727cef5865a546fa433a2f1a53c12c34a9df1501&
