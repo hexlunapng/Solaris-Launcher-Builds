@@ -31,3 +31,4 @@ Related Screenshots
 If you have **any more Solaris Launchers** from **discord.gg/solarisfn (2024)**,  
 please DM **@xlnk** and send them over and you will be credited..
 
+https://cdn.discordapp.com/attachments/1367308464581251075/1381386885838012556/image-22.png?ex=6847544a&is=684602ca&hm=7872482165cc3fd2951e44bb2925a66a2e6471a5525164d08856e9fa30efc9b5&
