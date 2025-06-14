@@ -60,6 +60,6 @@ https://cdn.solarisfn.dev/Solaris_1.3.0_x64_en-US.msi
 
 https://cdn.solarisfn.dev/Solaris_1.3.1_x64_en-US.msi
 
-If you have **any more Solaris Launchers** from **discord.gg/solarisfn (2024)**,  
+If you have **any more Solaris Launchers** from **discord.gg/solarisfn (2024/2025)**,  
 please DM **@xlnk** and send them over and you will be credited.. 
 credit to tiva for solaris
