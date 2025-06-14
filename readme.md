@@ -1,4 +1,4 @@
-Solaris Launcher Versions
+all of Solaris Launcher Versions
 
 https://cdn.solarisfn.dev/Solaris_1.0.0_x64_en-US.msi 
 
@@ -62,4 +62,4 @@ https://cdn.solarisfn.dev/Solaris_1.3.1_x64_en-US.msi
 
 If you have **any more Solaris Launchers** from **discord.gg/solarisfn (2024/2025)**,  
 please DM **@xlnk** and send them over and you will be credited.. 
-credit to tiva for solaris
+credits to tiva for solaris and sending the links to me 
